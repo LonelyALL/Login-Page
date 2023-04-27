@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+body{
+  background: linear-gradient(to right, #74b9ff, #0984e3);
+}
+
+.box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 75vh;
+}
